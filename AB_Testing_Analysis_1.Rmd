@@ -2,7 +2,9 @@
 title: "AB_Testing_Analysis_1"
 author: "Jen Yu Ou"
 date: "2023-10-14"
-output: html_document
+output:
+  md_document:
+    variant: markdown_github
 ---
 
 ```{r setup, include=FALSE}
